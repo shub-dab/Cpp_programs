@@ -1,2 +1,2 @@
 # Cpp_programs
-Programs in C++ language
+General programs in C++ language
